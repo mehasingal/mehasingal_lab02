@@ -43,7 +43,7 @@
 
 /* Full-Screen Hero Image */
 .hero {
-  background-image: url('../img/hero.jpg'); /* Replace with your image */
+  background-image: url('img/hero.jpg'); /* Replace with your image */
   height: 100vh;
   background-position: center;
   background-repeat: no-repeat;
